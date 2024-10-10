@@ -1,2 +1,4 @@
-# LA Data Project
-Volunteering to build front-end interfaces for an app that connects people with food resources throughout the LA area.
+- Developing responsive front-end interfaces using JavaScript and React.
+- Integrating these interfaces with a SQL database for seamless data retrieval and management.
+- Setting up and maintaining the .NET framework to support the application’s functionality.
+- Collaborating with team members to implement features that effectively address the needs of our community.
